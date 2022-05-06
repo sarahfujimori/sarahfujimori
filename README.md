@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sarahfujimori
-- 👀 I’m interested in machine learning, data science, and security.
 - 🌱 I’m currently a student at Stanford studying math and computer science! 
 - 📫 How to reach me: email sfuji@stanford.edu
 
