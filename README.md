@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarahfujimori
+- 👋 Hi, I’m Sarah Fujimori
 - 🌱 I’m currently a student at Stanford studying math and computer science! 
 - 📫 How to reach me: email sfuji@stanford.edu
 
